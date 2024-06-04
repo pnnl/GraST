@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgstream.a CMakeFiles/gstream.dir/StreamIn.cc.o CMakeFiles/gstream.dir/StreamMatch.cc.o CMakeFiles/gstream.dir/LdStreamMatch.cc.o CMakeFiles/gstream.dir/StreamEC.cc.o CMakeFiles/gstream.dir/ldMatchStandard.cc.o CMakeFiles/gstream.dir/ldMatchTwoPhase.cc.o CMakeFiles/gstream.dir/ldMatchTwoPhasePar.cc.o CMakeFiles/gstream.dir/greedyMatch.cc.o CMakeFiles/gstream.dir/Utility.cc.o CMakeFiles/gstream.dir/primalDualEC.cc.o
+/usr/bin/ranlib libgstream.a

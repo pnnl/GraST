@@ -1,0 +1,117 @@
+[
+{
+  "directory": "/home/sferdou/GraST/build/apps",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/postprocess.dir/appPostProcesing.cc.o -c /home/sferdou/GraST/apps/appPostProcesing.cc",
+  "file": "/home/sferdou/GraST/apps/appPostProcesing.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/apps",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/stio.dir/appStreamIO.cc.o -c /home/sferdou/GraST/apps/appStreamIO.cc",
+  "file": "/home/sferdou/GraST/apps/appStreamIO.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/apps",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/gp.dir/appGraphProperties.cc.o -c /home/sferdou/GraST/apps/appGraphProperties.cc",
+  "file": "/home/sferdou/GraST/apps/appGraphProperties.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/apps",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/twopassec.dir/appStreamTwoPassEC.cc.o -c /home/sferdou/GraST/apps/appStreamTwoPassEC.cc",
+  "file": "/home/sferdou/GraST/apps/appStreamTwoPassEC.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/apps",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/ldstmatch.dir/appLdStreamMatch.cc.o -c /home/sferdou/GraST/apps/appLdStreamMatch.cc",
+  "file": "/home/sferdou/GraST/apps/appLdStreamMatch.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/apps",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/writeomtx.dir/appWriteOMtx.cc.o -c /home/sferdou/GraST/apps/appWriteOMtx.cc",
+  "file": "/home/sferdou/GraST/apps/appWriteOMtx.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/apps",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/stmatch.dir/appStreamMatch.cc.o -c /home/sferdou/GraST/apps/appStreamMatch.cc",
+  "file": "/home/sferdou/GraST/apps/appStreamMatch.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/apps",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/grdymatch.dir/appGrdyMatch.cc.o -c /home/sferdou/GraST/apps/appGrdyMatch.cc",
+  "file": "/home/sferdou/GraST/apps/appGrdyMatch.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/apps",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/stec.dir/appStreamEC.cc.o -c /home/sferdou/GraST/apps/appStreamEC.cc",
+  "file": "/home/sferdou/GraST/apps/appStreamEC.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/apps",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/pdthreehalf.dir/appPDEdgecover.cc.o -c /home/sferdou/GraST/apps/appPDEdgecover.cc",
+  "file": "/home/sferdou/GraST/apps/appPDEdgecover.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/apps",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/nnec.dir/appNN.cc.o -c /home/sferdou/GraST/apps/appNN.cc",
+  "file": "/home/sferdou/GraST/apps/appNN.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/apps",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/ecpd.dir/appStreamECPD.cc.o -c /home/sferdou/GraST/apps/appStreamECPD.cc",
+  "file": "/home/sferdou/GraST/apps/appStreamECPD.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/apps",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/permin.dir/appPermuteInput.cc.o -c /home/sferdou/GraST/apps/appPermuteInput.cc",
+  "file": "/home/sferdou/GraST/apps/appPermuteInput.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/src",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/gstream.dir/StreamIn.cc.o -c /home/sferdou/GraST/src/StreamIn.cc",
+  "file": "/home/sferdou/GraST/src/StreamIn.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/src",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/gstream.dir/StreamMatch.cc.o -c /home/sferdou/GraST/src/StreamMatch.cc",
+  "file": "/home/sferdou/GraST/src/StreamMatch.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/src",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/gstream.dir/LdStreamMatch.cc.o -c /home/sferdou/GraST/src/LdStreamMatch.cc",
+  "file": "/home/sferdou/GraST/src/LdStreamMatch.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/src",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/gstream.dir/StreamEC.cc.o -c /home/sferdou/GraST/src/StreamEC.cc",
+  "file": "/home/sferdou/GraST/src/StreamEC.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/src",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/gstream.dir/ldMatchStandard.cc.o -c /home/sferdou/GraST/src/ldMatchStandard.cc",
+  "file": "/home/sferdou/GraST/src/ldMatchStandard.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/src",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/gstream.dir/ldMatchTwoPhase.cc.o -c /home/sferdou/GraST/src/ldMatchTwoPhase.cc",
+  "file": "/home/sferdou/GraST/src/ldMatchTwoPhase.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/src",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/gstream.dir/ldMatchTwoPhasePar.cc.o -c /home/sferdou/GraST/src/ldMatchTwoPhasePar.cc",
+  "file": "/home/sferdou/GraST/src/ldMatchTwoPhasePar.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/src",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/gstream.dir/greedyMatch.cc.o -c /home/sferdou/GraST/src/greedyMatch.cc",
+  "file": "/home/sferdou/GraST/src/greedyMatch.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/src",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/gstream.dir/Utility.cc.o -c /home/sferdou/GraST/src/Utility.cc",
+  "file": "/home/sferdou/GraST/src/Utility.cc"
+},
+{
+  "directory": "/home/sferdou/GraST/build/src",
+  "command": "/apps/spack/bell/apps/gcc/9.3.0-gcc-4.8.5-z2ug7z7/bin/g++  -I/home/sferdou/GraST/include -O3 -fopenmp -std=gnu++17 -o CMakeFiles/gstream.dir/primalDualEC.cc.o -c /home/sferdou/GraST/src/primalDualEC.cc",
+  "file": "/home/sferdou/GraST/src/primalDualEC.cc"
+}
+]
