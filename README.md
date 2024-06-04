@@ -8,7 +8,7 @@ GrasT is a C++ implementation of some streaming graph algorithms. Currently, Gra
       note    = {To appear in the 22nd International Symposium on Experimental Algorithms, {SEA} 2024}
     }
   ## Description
-  The src directory contains the implementation of the streaming matching, edge covering, and few auxiliary algorithms. The [StreamMatch.cc](src/StreamMatch.cc) source file implements two semi-streaming matching algorithms: The $\frac{1}{2+\epsilon}$ Paz and Swartzman [2], and the $1/6$-approximate due to Feigenbaum et al [1]. The [StreamEC.cc](src/StreamEC.cc) file has the implementation of three new streaming edge cover algorithm. See the detailed description of these algorithms in
+  The src directory contains the implementation of the streaming matching, edge covering, and few auxiliary algorithms. The [StreamMatch.cc](./src/StreamMatch.cc) source file implements two semi-streaming matching algorithms: The $\frac{1}{2+\epsilon}$ Paz and Swartzman [2], and the $1/6$-approximate due to Feigenbaum et al [1]. The [StreamEC.cc](src/StreamEC.cc) file has the implementation of three new streaming edge cover algorithm. See the detailed description of these algorithms in
     
  ## Compilation
  1. Clone the GrasT github repo
